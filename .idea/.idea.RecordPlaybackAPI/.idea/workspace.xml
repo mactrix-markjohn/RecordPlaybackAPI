@@ -1,0 +1,957 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a4ca4710-0e7e-4c67-93d8-1e9e05fac4c6" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/VideoListScript.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+              <folding>
+                <marker date="1621983121217" expanded="true" signature="6:170" ph="..." />
+                <marker date="1621983121217" expanded="true" signature="216:845" ph="{...}" />
+                <marker date="1621983121217" expanded="true" signature="406:427" ph="{...}" />
+                <marker date="1621983121217" expanded="true" signature="485:506" ph="{...}" />
+                <marker date="1621983121217" expanded="true" signature="583:759" ph="{...}" />
+                <marker date="1621983121217" expanded="true" signature="792:843" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/MainScript.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="825">
+              <caret line="68" column="23" selection-start-line="68" selection-start-column="23" selection-end-line="68" selection-end-column="23" />
+              <folding>
+                <marker date="1621983121092" expanded="true" signature="6:152" ph="..." />
+                <marker date="1621983121092" expanded="true" signature="193:1936" ph="{...}" />
+                <marker date="1621983121092" expanded="true" signature="439:475" ph="{...}" />
+                <marker date="1621983121092" expanded="true" signature="533:554" ph="{...}" />
+                <marker date="1621983121092" expanded="true" signature="588:661" ph="{...}" />
+                <marker date="1621983121092" expanded="true" signature="693:1474" ph="{...}" />
+                <marker date="1621983121092" expanded="true" signature="856:980" ph="{...}" />
+                <marker date="1621983121092" expanded="true" signature="993:1457" ph="{...}" />
+                <marker date="1621983121092" expanded="true" signature="1057:1434" ph="{...}" />
+                <marker date="1621983121092" expanded="true" signature="1519:1629" ph="{...}" />
+                <marker date="1621983121092" expanded="true" signature="1675:1802" ph="{...}" />
+                <marker date="1621983121092" expanded="true" signature="1837:1932" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Samples~ 1/CloudAnchors/Scripts/CloudAnchorsExampleController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5265">
+              <caret line="372" selection-start-line="372" selection-end-line="372" />
+              <folding>
+                <marker date="1612850012000" expanded="true" signature="0:828" ph="/* ----------------------------------------------------------------------- ... */" />
+                <marker date="1612850012000" expanded="true" signature="887:26755" ph="{...}" />
+                <marker date="1612850012000" expanded="false" signature="900:1193" ph="..." />
+                <marker date="1612850012000" expanded="true" signature="1199:1479" ph="/// Controller for the Cloud Anchors Example. Handles the ARCore lifecycle. ... " />
+                <marker date="1612850012000" expanded="true" signature="1542:26753" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="1592:1690" ph="/* The active AR Session Origin used in the example. ... */" />
+                <marker date="1612850012000" expanded="true" signature="1746:1830" ph="/// The AR Session used in the example. ... " />
+                <marker date="1612850012000" expanded="true" signature="1879:1966" ph="/// The AR Extentions used in the example. ... " />
+                <marker date="1612850012000" expanded="true" signature="2016:2114" ph="/// The active AR Anchor Manager used in the example. ... " />
+                <marker date="1612850012000" expanded="true" signature="2170:2269" ph="/// The active AR Raycast Manager used in the example. ... " />
+                <marker date="1612850012000" expanded="true" signature="2351:2434" ph="/* The network manager UI Controller. ... */" />
+                <marker date="1612850012000" expanded="true" signature="2507:2616" ph="/// The Lobby Screen to see Available Rooms or create a new one. ... " />
+                <marker date="1612850012000" expanded="true" signature="2665:2755" ph="/// The Start Screen to see help information. ... " />
+                <marker date="1612850012000" expanded="true" signature="2804:2933" ph="/// The AR Screen which display the AR view, return to lobby button and room number. ... " />
+                <marker date="1612850012000" expanded="true" signature="2979:3109" ph="/// The Status Screen to display the connection status and cloud anchor instructions. ... " />
+                <marker date="1612850012000" expanded="true" signature="3159:3274" ph="/// Display the tracking helper text when the session in not tracking. ... " />
+                <marker date="1612850012000" expanded="true" signature="3324:3442" ph="/// Helper message for &lt;see cref=&quot;NotTrackingReason.Initializing&quot;&gt;.&lt;/see&gt; ... " />
+                <marker date="1612850012000" expanded="true" signature="3538:3656" ph="/// Helper message for &lt;see cref=&quot;NotTrackingReason.Relocalizing&quot;&gt;.&lt;/see&gt; ... " />
+                <marker date="1612850012000" expanded="true" signature="3765:3888" ph="/// Helper message for &lt;see cref=&quot;NotTrackingReason.InsufficientLight&quot;&gt;.&lt;/see&gt; ... " />
+                <marker date="1612850012000" expanded="true" signature="3999:4125" ph="/// Helper message for &lt;see cref=&quot;NotTrackingReason.InsufficientFeatures&quot;&gt;.&lt;/see&gt; ... " />
+                <marker date="1612850012000" expanded="true" signature="4282:4403" ph="/// Helper message for &lt;see cref=&quot;NotTrackingReason.ExcessiveMotion&quot;&gt;.&lt;/see&gt; ... " />
+                <marker date="1612850012000" expanded="true" signature="4499:4616" ph="/// Helper message for &lt;see cref=&quot;NotTrackingReason.Unsupported&quot;&gt;.&lt;/see&gt; ... " />
+                <marker date="1612850012000" expanded="true" signature="4719:4884" ph="/// The key name used in PlayerPrefs which indicates whether ... " />
+                <marker date="1612850012000" expanded="true" signature="4976:5093" ph="/// The time between room starts up and ARCore session starts resolving. ... " />
+                <marker date="1612850012000" expanded="true" signature="5161:5361" ph="/// Record the time since the room started. If it passed the resolving prepare time, ... " />
+                <marker date="1612850012000" expanded="true" signature="5417:5518" ph="/// Indicates whether passes the resolving prepare time. ... " />
+                <marker date="1612850012000" expanded="true" signature="5587:5690" ph="/// Indicates whether the Anchor was already instantiated. ... " />
+                <marker date="1612850012000" expanded="true" signature="5757:5858" ph="/// Indicates whether the Cloud Anchor finished hosting. ... " />
+                <marker date="1612850012000" expanded="true" signature="5921:6079" ph="/// True if the app is in the process of quitting due to an ARCore connection error, ... " />
+                <marker date="1612850012000" expanded="true" signature="6131:6224" ph="/// The world origin transform for this session. ... " />
+                <marker date="1612850012000" expanded="true" signature="6281:6360" ph="/// The current cloud anchor mode. ... " />
+                <marker date="1612850012000" expanded="true" signature="6440:6518" ph="/// The current active UI screen. ... " />
+                <marker date="1612850012000" expanded="true" signature="6606:6675" ph="/// The Network Manager. ... " />
+                <marker date="1612850012000" expanded="true" signature="6801:6901" ph="/// Enumerates modes the example application can be in. ... " />
+                <marker date="1612850012000" expanded="true" signature="6937:7459" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="6960:7094" ph="/// Enume mode that indicate the example application is ready to host or resolve. ... " />
+                <marker date="1612850012000" expanded="true" signature="7127:7258" ph="/// Enume mode that indicate the example application is hosting cloud anchors. ... " />
+                <marker date="1612850012000" expanded="true" signature="7293:7426" ph="/// Enume mode that indicate the example application is resolving cloud anchors. ... " />
+                <marker date="1612850012000" expanded="true" signature="7469:7585" ph="/// Enumerates the active UI screens the example application can be in. ... " />
+                <marker date="1612850012000" expanded="true" signature="7618:8123" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="7641:7766" ph="/// Enume mode that indicate the example application is on lobby screen. ... " />
+                <marker date="1612850012000" expanded="true" signature="7805:7930" ph="/// Enume mode that indicate the example application is on start screen. ... " />
+                <marker date="1612850012000" expanded="true" signature="7969:8091" ph="/// Enume mode that indicate the example application is on AR screen. ... " />
+                <marker date="1612850012000" expanded="true" signature="8133:8306" ph="/// Gets a value indicating whether the Origin of the new World Coordinate System, ... " />
+                <marker date="1612850012000" expanded="true" signature="8341:8403" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="8413:8575" ph="/// Gets or sets the world origin which will be used as the transform parent for network ... " />
+                <marker date="1612850012000" expanded="true" signature="8612:9117" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="8638:8703" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="8720:9107" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="9127:9223" ph="/// Callback handling Start Now button click event. ... " />
+                <marker date="1612850012000" expanded="true" signature="9269:9344" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="9354:9451" ph="/// Callback handling Learn More Button click event. ... " />
+                <marker date="1612850012000" expanded="true" signature="9498:9626" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="9636:9710" ph="/// The Unity Start() method. ... " />
+                <marker date="1612850012000" expanded="true" signature="9738:10289" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="10060:10189" ph="/* A Name is provided to the Game Object so it can be found by other Scripts ... */" />
+                <marker date="1612850012000" expanded="true" signature="10299:10374" ph="/// The Unity Update() method. ... " />
+                <marker date="1612850012000" expanded="true" signature="10403:13351" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="10519:10571" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="10782:10834" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="10848:10976" ph="/* Give AR session some time to prepare for resolving and update the UI message ... */" />
+                <marker date="1612850012000" expanded="true" signature="11068:11429" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="11195:11415" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="11567:11643" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="11657:11763" ph="/* If the origin anchor has not been placed yet, then update in resolving mode is ... */" />
+                <marker date="1612850012000" expanded="true" signature="11841:11893" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="12099:12151" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="12293:12345" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="12620:13341" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="12651:12827" ph="/* The first touch on the Hosting mode will instantiate the origin anchor. Any ... */" />
+                <marker date="1612850012000" expanded="true" signature="12864:12976" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="13061:13327" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="13361:13657" ph="/// Indicates whether the resolving prepare time has passed so the AnchorController ... " />
+                <marker date="1612850012000" expanded="true" signature="13708:13845" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="13855:14039" ph="/// Callback called when the lobby screen's visibility is changed. ... " />
+                <marker date="1612850012000" expanded="true" signature="14098:14495" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="14133:14223" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="14291:14378" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="14395:14485" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="14505:14607" ph="/// Callback called when the resolving timeout is passed. ... " />
+                <marker date="1612850012000" expanded="true" signature="14654:15147" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="14719:14916" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="15157:15331" ph="/// Handles user intent to enter a mode where they can place an anchor to host or to exit ... " />
+                <marker date="1612850012000" expanded="true" signature="15377:15695" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="15444:15632" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="15705:15885" ph="/// Handles a user intent to enter a mode where they can input an anchor to be resolved or ... " />
+                <marker date="1612850012000" expanded="true" signature="15933:16257" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="16002:16192" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="16267:16501" ph="/// Callback indicating that the Cloud Anchor was instantiated and the host request was ... " />
+                <marker date="1612850012000" expanded="true" signature="16555:16781" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="16609:16661" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="16791:17094" ph="/// Callback indicating that the Cloud Anchor was hosted. ... " />
+                <marker date="1612850012000" expanded="true" signature="17160:17293" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="17303:17610" ph="/// Callback indicating that the Cloud Anchor was resolved. ... " />
+                <marker date="1612850012000" expanded="true" signature="17678:17767" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="17777:17901" ph="/// Callback that happens when the client successfully connected to the server. ... " />
+                <marker date="1612850012000" expanded="true" signature="17944:18609" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="18011:18161" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="18225:18376" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="18393:18599" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="18619:18735" ph="/// Callback that happens when the client disconnected from the server. ... " />
+                <marker date="1612850012000" expanded="true" signature="18783:18943" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="18994:19518" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="19037:19094" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="19528:19766" ph="/// Instantiates the anchor object at the pose of the _worldOrigin. ... " />
+                <marker date="1612850012000" expanded="true" signature="19822:20052" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="20062:20258" ph="/// Instantiates a star object that will be synchronized over the network to other clients. ... " />
+                <marker date="1612850012000" expanded="true" signature="20309:20560" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="20570:20750" ph="/// Indicates whether a star can be placed. ... " />
+                <marker date="1612850012000" expanded="true" signature="20787:21111" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="20856:20923" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="20981:21074" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="21121:21197" ph="/// Resets the internal status. ... " />
+                <marker date="1612850012000" expanded="true" signature="21232:21409" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="21419:21574" ph="/// Handles active screen switch events. ... " />
+                <marker date="1612850012000" expanded="true" signature="21641:22611" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="22233:22327" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="22391:22601" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="22422:22547" ph="/* Set platform active when switching to AR Screen so the camera permission only ... */" />
+                <marker date="1612850012000" expanded="true" signature="22621:22713" ph="/// Check and update the application lifecycle. ... " />
+                <marker date="1612850012000" expanded="true" signature="22763:23471" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="22882:22946" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="23070:23157" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="23236:23288" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="23352:23461" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="23481:23606" ph="/// Check session's NotTrackingReason and display corresponding helper messages. ... " />
+                <marker date="1612850012000" expanded="true" signature="23658:25259" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="23754:23846" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="23863:25249" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="23993:25235" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="25269:25461" ph="/// Quits the application after 5 seconds for the toast to appear. ... " />
+                <marker date="1612850012000" expanded="true" signature="25512:25740" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="25551:25603" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="25750:25940" ph="/// Returns to lobby after 3 seconds for the reason message to appear. ... " />
+                <marker date="1612850012000" expanded="true" signature="26000:26280" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="26114:26166" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="26290:26369" ph="/// Actually quit the application. ... " />
+                <marker date="1612850012000" expanded="true" signature="26399:26451" ph="{...}" />
+                <marker date="1612850012000" expanded="true" signature="26461:26541" ph="/// Actually return to lobby scene. ... " />
+                <marker date="1612850012000" expanded="true" signature="26580:26747" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ConstantList.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-15">
+              <caret line="8" column="60" selection-start-line="8" selection-start-column="60" selection-end-line="8" selection-end-column="60" />
+              <folding>
+                <marker date="1621884907833" expanded="true" signature="6:78" ph="..." />
+                <marker date="1621884907833" expanded="true" signature="105:281" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Library/PackageCache/com.google.ar.core.arfoundation.extensions@62e1b8d91679-1621847449920/Runtime/Scripts/ARCoreExtensions.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1621847449920" expanded="true" signature="0:815" ph="/* ----------------------------------------------------------------------- ... */" />
+                <marker date="1621847449920" expanded="true" signature="853:14650" ph="{...}" />
+                <marker date="1621847449920" expanded="false" signature="866:1187" ph="..." />
+                <marker date="1621847449920" expanded="true" signature="1194:1393" ph="/// ARCore Extensions, this script allows an app to specify and provide access to ... " />
+                <marker date="1621847449920" expanded="true" signature="1443:14648" ph="{...}" />
+                <marker date="1621847449920" expanded="true" signature="1458:1556" ph="/// AR Foundation &lt;c&gt;ARSession&lt;/c&gt; used by the scene. ... " />
+                <marker date="1621847449920" expanded="true" signature="1600:1704" ph="/// AR Foundation &lt;c&gt;ARSessionOrigin&lt;/c&gt; used by the scene. ... " />
+                <marker date="1621847449920" expanded="true" signature="1760:1874" ph="/// AR Foundation &lt;c&gt;ARCameraManager&lt;/c&gt; used in the ARSessionOrigin. ... " />
+                <marker date="1621847449920" expanded="true" signature="1930:2076" ph="/// Supplementary configuration to define features and options for the ... " />
+                <marker date="1621847449920" expanded="true" signature="2148:2339" ph="/// The &lt;c&gt;&lt;see cref=&quot;ARCoreExtensionsCameraConfigFilter&quot;/&gt;&lt;/c&gt; to define the set of ... " />
+                <marker date="1621847449920" expanded="true" signature="2502:2858" ph="/// The callback event that allows a camera configuration to be selected from ... " />
+                <marker date="1621847449920" expanded="true" signature="2975:4124" ph="/// Selects a camera configuration for the ARCore session to use. ... " />
+                <marker date="1621847449920" expanded="true" signature="4803:5446" ph="{...}" />
+                <marker date="1621847449920" expanded="true" signature="4829:5436" ph="{...}" />
+                <marker date="1621847449920" expanded="true" signature="4911:5232" ph="{...}" />
+                <marker date="1621847449920" expanded="true" signature="5456:5526" ph="/// Unity's Awake method. ... " />
+                <marker date="1621847449920" expanded="true" signature="5554:5818" ph="{...}" />
+                <marker date="1621847449920" expanded="true" signature="5591:5777" ph="{...}" />
+                <marker date="1621847449920" expanded="true" signature="5828:5898" ph="/// Unity's Start method. ... " />
+                <marker date="1621847449920" expanded="true" signature="5926:6140" ph="{...}" />
+                <marker date="1621847449920" expanded="true" signature="6150:6223" ph="/// Unity's OnEnable method. ... " />
+                <marker date="1621847449920" expanded="true" signature="6254:7717" ph="{...}" />
+                <marker date="1621847449920" expanded="true" signature="6482:6612" ph="{...}" />
+                <marker date="1621847449920" expanded="true" signature="6729:6984" ph="{...}" />
+                <marker date="1621847449920" expanded="true" signature="7001:7116" ph="{...}" />
+                <marker date="1621847449920" expanded="true" signature="7250:7504" ph="{...}" />
+                <marker date="1621847449920" expanded="true" signature="7521:7650" ph="{...}" />
+                <marker date="1621847449920" expanded="true" signature="7727:7801" ph="/// Unity's OnDisable method. ... " />
+                <marker date="1621847449920" expanded="true" signature="7833:8421" ph="{...}" />
+                <marker date="1621847449920" expanded="true" signature="8061:8176" ph="{...}" />
+                <marker date="1621847449920" expanded="true" signature="8225:8354" ph="{...}" />
+                <marker date="1621847449920" expanded="true" signature="8431:8505" ph="/// Unity's OnDestroy method. ... " />
+                <marker date="1621847449920" expanded="true" signature="8537:8767" ph="{...}" />
+                <marker date="1621847449920" expanded="true" signature="8695:8757" ph="{...}" />
+                <marker date="1621847449920" expanded="true" signature="8777:8848" ph="/// Unity's Update method. ... " />
+                <marker date="1621847449920" expanded="true" signature="8877:10833" ph="{...}" />
+                <marker date="1621847449920" expanded="true" signature="8957:9022" ph="{...}" />
+                <marker date="1621847449920" expanded="true" signature="9079:9131" ph="{...}" />
+                <marker date="1621847449920" expanded="true" signature="9264:9695" ph="{...}" />
+                <marker date="1621847449920" expanded="true" signature="9479:9643" ph="/* Extensions will attempt to select the camera config based on the filter ... */" />
+                <marker date="1621847449920" expanded="true" signature="9838:10816" ph="{...}" />
+                <marker date="1621847449920" expanded="true" signature="10143:10581" ph="{...}" />
+                <marker date="1621847449920" expanded="true" signature="10309:10563" ph="{...}" />
+                <marker date="1621847449920" expanded="true" signature="10419:10541" ph="{...}" />
+                <marker date="1621847449920" expanded="true" signature="10638:10743" ph="{...}" />
+                <marker date="1621847449920" expanded="true" signature="10861:10927" ph="/// Unity OnValidate. ... " />
+                <marker date="1621847449920" expanded="true" signature="10960:10980" ph="{...}" />
+                <marker date="1621847449920" expanded="true" signature="11022:11539" ph="{...}" />
+                <marker date="1621847449920" expanded="true" signature="11274:11326" ph="{...}" />
+                <marker date="1621847449920" expanded="true" signature="11603:11913" ph="{...}" />
+                <marker date="1621847449920" expanded="true" signature="12011:12425" ph="{...}" />
+                <marker date="1621847449920" expanded="true" signature="12060:12112" ph="{...}" />
+                <marker date="1621847449920" expanded="true" signature="12240:12415" ph="{...}" />
+                <marker date="1621847449920" expanded="true" signature="12544:13449" ph="{...}" />
+                <marker date="1621847449920" expanded="true" signature="12598:12650" ph="{...}" />
+                <marker date="1621847449920" expanded="true" signature="12774:13439" ph="{...}" />
+                <marker date="1621847449920" expanded="true" signature="12958:13131" ph="/* Update the filter cache to avoid overwriting user's selection in case the ... */" />
+                <marker date="1621847449920" expanded="true" signature="13194:13425" ph="{...}" />
+                <marker date="1621847449920" expanded="true" signature="13492:14618" ph="{...}" />
+                <marker date="1621847449920" expanded="true" signature="13541:13593" ph="{...}" />
+                <marker date="1621847449920" expanded="true" signature="13696:14608" ph="{...}" />
+                <marker date="1621847449920" expanded="true" signature="13745:13979" ph="{...}" />
+                <marker date="1621847449920" expanded="true" signature="14076:14202" ph="{...}" />
+                <marker date="1621847449920" expanded="true" signature="14280:14511" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/RecordARSession.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="555">
+              <caret line="49" column="91" selection-start-line="49" selection-start-column="91" selection-end-line="49" selection-end-column="91" />
+              <folding>
+                <marker date="1621982041921" expanded="true" signature="6:249" ph="..." />
+                <marker date="1621982041921" expanded="true" signature="295:2491" ph="{...}" />
+                <marker date="1621982041921" expanded="true" signature="738:917" ph="{...}" />
+                <marker date="1621982041921" expanded="true" signature="975:996" ph="{...}" />
+                <marker date="1621982041921" expanded="true" signature="1063:1987" ph="{...}" />
+                <marker date="1621982041921" expanded="true" signature="1368:1775" ph="{...}" />
+                <marker date="1621982041921" expanded="true" signature="1788:1979" ph="{...}" />
+                <marker date="1621982041921" expanded="true" signature="2017:2183" ph="{...}" />
+                <marker date="1621982041921" expanded="true" signature="2105:2177" ph="/* PlaybackPanel.SetActive(true); ... */" />
+                <marker date="1621982041921" expanded="true" signature="2232:2359" ph="{...}" />
+                <marker date="1621982041921" expanded="true" signature="2394:2489" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlaybackARSession.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1186">
+              <caret line="132" column="14" selection-start-line="132" selection-start-column="14" selection-end-line="132" selection-end-column="14" />
+              <folding>
+                <marker date="1622156184642" expanded="true" signature="6:269" ph="..." />
+                <marker date="1622156184642" expanded="true" signature="317:7378" ph="{...}" />
+                <marker date="1622156184642" expanded="true" signature="988:1035" ph="{...}" />
+                <marker date="1622156184642" expanded="true" signature="1098:2589" ph="{...}" />
+                <marker date="1622156184642" expanded="true" signature="1297:1770" ph="{...}" />
+                <marker date="1622156184642" expanded="true" signature="1320:1416" ph="/* Raycast hits are sorted by distance, so the first one ... */" />
+                <marker date="1622156184642" expanded="true" signature="1524:1646" ph="{...}" />
+                <marker date="1622156184642" expanded="true" signature="1663:1760" ph="{...}" />
+                <marker date="1622156184642" expanded="true" signature="1781:2407" ph="/* if (restartCheck) ... */" />
+                <marker date="1622156184642" expanded="false" signature="2428:2582" ph="/* if (setPlaybackDataset) ... */" />
+                <marker date="1622156184642" expanded="true" signature="2621:2933" ph="{...}" />
+                <marker date="1622156184642" expanded="false" signature="2635:2706" ph="/* setPlaybackDataset = true; ... */" />
+                <marker date="1622156184642" expanded="true" signature="2961:3587" ph="{...}" />
+                <marker date="1622156184642" expanded="true" signature="3000:3363" ph="{...}" />
+                <marker date="1622156184642" expanded="true" signature="3376:3581" ph="{...}" />
+                <marker date="1622156184642" expanded="true" signature="3620:4476" ph="{...}" />
+                <marker date="1622156184642" expanded="true" signature="3796:4470" ph="/* if (result == PlaybackResult.ErrorPlaybackFailed || result == PlaybackResult.SessionNotReady) ... */" />
+                <marker date="1622156184642" expanded="true" signature="4511:5990" ph="{...}" />
+                <marker date="1622156184642" expanded="true" signature="4624:5089" ph="{...}" />
+                <marker date="1622156184642" expanded="true" signature="4920:5043" ph="/* In the frame after that, re-enable the ARSession to resume the session from ... */" />
+                <marker date="1622156184642" expanded="true" signature="5125:5280" ph="/* session.enabled = false; ... */" />
+                <marker date="1622156184642" expanded="true" signature="5290:5982" ph="/* if (result == PlaybackResult.ErrorPlaybackFailed || result == PlaybackResult.SessionNotReady) ... */" />
+                <marker date="1622156184642" expanded="true" signature="6051:6254" ph="{...}" />
+                <marker date="1622156184642" expanded="true" signature="6091:6192" ph="{...}" />
+                <marker date="1622156184642" expanded="true" signature="6300:6427" ph="{...}" />
+                <marker date="1622156184642" expanded="true" signature="6462:6557" ph="{...}" />
+                <marker date="1622156184642" expanded="true" signature="6581:6656" ph="{...}" />
+                <marker date="1622156184642" expanded="true" signature="6679:6726" ph="{...}" />
+                <marker date="1622156184642" expanded="true" signature="6734:7375" ph="PlaceOnPlane" />
+                <marker date="1622156184642" expanded="true" signature="6765:6861" ph="/* [SerializeField] ... */" />
+                <marker date="1622156184642" expanded="true" signature="6866:6976" ph="/* The prefab to instantiate on touch. ... */" />
+                <marker date="1622156184642" expanded="true" signature="6981:7106" ph="/* public GameObject placedPrefab ... */" />
+                <marker date="1622156184642" expanded="true" signature="7112:7299" ph="/* The object instantiated as a result of a successful raycast intersection with a plane. ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../Project/ARFoundationTest/Assets/Scripts/PlaceObject.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="e#0#148#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../../Project/ARFoundationTest/Assets/ARFoundationSample/Sample/Assets/Scripts/PlaceOnPlane.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1095">
+              <caret line="76" column="42" selection-start-line="17" selection-start-column="8" selection-end-line="76" selection-end-column="42" />
+              <folding>
+                <element signature="e#0#122#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Library/PackageCache/com.google.ar.core.arfoundation.extensions@62e1b8d91679-1621847449920/Runtime/Scripts/ARPlaybackManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1621847449920" expanded="true" signature="0:816" ph="/* ----------------------------------------------------------------------- ... */" />
+                <marker date="1621847449920" expanded="true" signature="854:6998" ph="{...}" />
+                <marker date="1621847449920" expanded="false" signature="867:1060" ph="..." />
+                <marker date="1621847449920" expanded="true" signature="1066:1157" ph="/// Provides access to session playback functionality. ... " />
+                <marker date="1621847449920" expanded="true" signature="1208:6996" ph="{...}" />
+                <marker date="1621847449920" expanded="true" signature="1223:1384" ph="/// Gets the current state of the playback. ... " />
+                <marker date="1621847449920" expanded="true" signature="1429:1622" ph="{...}" />
+                <marker date="1621847449920" expanded="true" signature="1455:1612" ph="{...}" />
+                <marker date="1621847449920" expanded="true" signature="1632:3596" ph="/// Sets an MP4 dataset file to playback instead of using the live camera feed and IMU ... " />
+                <marker date="1621847449920" expanded="true" signature="3669:4152" ph="{...}" />
+                <marker date="1621847449920" expanded="true" signature="3919:4002" ph="{...}" />
+                <marker date="1621847449920" expanded="true" signature="4162:5160" ph="/// Gets the set of data recorded to the given track available during playback on this ... " />
+                <marker date="1621847449920" expanded="true" signature="5225:6990" ph="{...}" />
+                <marker date="1621847449920" expanded="true" signature="5475:5703" ph="{...}" />
+                <marker date="1621847449920" expanded="true" signature="5854:6164" ph="{...}" />
+                <marker date="1621847449920" expanded="true" signature="6265:6503" ph="{...}" />
+                <marker date="1621847449920" expanded="true" signature="6578:6812" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ConstantList.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Samples~ 1/CloudAnchors/Scripts/CloudAnchorsExampleController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RecordARSession.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MainScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Project/ARFoundationTest/Assets/Scripts/PlaceObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.google.ar.core.arfoundation.extensions@62e1b8d91679-1621847449920/Runtime/Scripts/ARCoreExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/VideoListScript.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.google.ar.core.arfoundation.extensions@62e1b8d91679-1621847449920/Runtime/Scripts/ARPlaybackManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Project/ARFoundationTest/Assets/ARFoundationSample/Sample/Assets/Scripts/PlaceOnPlane.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlaybackARSession.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/ConstantList.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RecordARSession.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MainScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/VideoListScript.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlaybackARSession.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="width" value="1346" />
+    <option name="height" value="721" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <option name="userSelectedPid" value="false" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a4ca4710-0e7e-4c67-93d8-1e9e05fac4c6" name="Default Changelist" comment="" />
+      <created>1621849127113</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621849127113</updated>
+      <workItem from="1621849762058" duration="7567000" />
+      <workItem from="1621890871136" duration="1469000" />
+      <workItem from="1621897019235" duration="5778000" />
+      <workItem from="1622133947966" duration="2673000" />
+      <workItem from="1622150532329" duration="2386000" />
+      <workItem from="1622155865643" duration="936000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="20809000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26152682" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Unity" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="Terminal" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.32913387" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" weight="0.32955405" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" weight="0.32955405" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/VideoListScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+          <folding>
+            <marker date="1621983121217" expanded="true" signature="6:170" ph="..." />
+            <marker date="1621983121217" expanded="true" signature="216:845" ph="{...}" />
+            <marker date="1621983121217" expanded="true" signature="406:427" ph="{...}" />
+            <marker date="1621983121217" expanded="true" signature="485:506" ph="{...}" />
+            <marker date="1621983121217" expanded="true" signature="583:759" ph="{...}" />
+            <marker date="1621983121217" expanded="true" signature="792:843" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MainScript.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="825">
+          <caret line="68" column="23" selection-start-line="68" selection-start-column="23" selection-end-line="68" selection-end-column="23" />
+          <folding>
+            <marker date="1621983121092" expanded="true" signature="6:152" ph="..." />
+            <marker date="1621983121092" expanded="true" signature="193:1936" ph="{...}" />
+            <marker date="1621983121092" expanded="true" signature="439:475" ph="{...}" />
+            <marker date="1621983121092" expanded="true" signature="533:554" ph="{...}" />
+            <marker date="1621983121092" expanded="true" signature="588:661" ph="{...}" />
+            <marker date="1621983121092" expanded="true" signature="693:1474" ph="{...}" />
+            <marker date="1621983121092" expanded="true" signature="856:980" ph="{...}" />
+            <marker date="1621983121092" expanded="true" signature="993:1457" ph="{...}" />
+            <marker date="1621983121092" expanded="true" signature="1057:1434" ph="{...}" />
+            <marker date="1621983121092" expanded="true" signature="1519:1629" ph="{...}" />
+            <marker date="1621983121092" expanded="true" signature="1675:1802" ph="{...}" />
+            <marker date="1621983121092" expanded="true" signature="1837:1932" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Samples~ 1/CloudAnchors/Scripts/CloudAnchorsExampleController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5265">
+          <caret line="372" selection-start-line="372" selection-end-line="372" />
+          <folding>
+            <marker date="1612850012000" expanded="true" signature="0:828" ph="/* ----------------------------------------------------------------------- ... */" />
+            <marker date="1612850012000" expanded="true" signature="887:26755" ph="{...}" />
+            <marker date="1612850012000" expanded="false" signature="900:1193" ph="..." />
+            <marker date="1612850012000" expanded="true" signature="1199:1479" ph="/// Controller for the Cloud Anchors Example. Handles the ARCore lifecycle. ... " />
+            <marker date="1612850012000" expanded="true" signature="1542:26753" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="1592:1690" ph="/* The active AR Session Origin used in the example. ... */" />
+            <marker date="1612850012000" expanded="true" signature="1746:1830" ph="/// The AR Session used in the example. ... " />
+            <marker date="1612850012000" expanded="true" signature="1879:1966" ph="/// The AR Extentions used in the example. ... " />
+            <marker date="1612850012000" expanded="true" signature="2016:2114" ph="/// The active AR Anchor Manager used in the example. ... " />
+            <marker date="1612850012000" expanded="true" signature="2170:2269" ph="/// The active AR Raycast Manager used in the example. ... " />
+            <marker date="1612850012000" expanded="true" signature="2351:2434" ph="/* The network manager UI Controller. ... */" />
+            <marker date="1612850012000" expanded="true" signature="2507:2616" ph="/// The Lobby Screen to see Available Rooms or create a new one. ... " />
+            <marker date="1612850012000" expanded="true" signature="2665:2755" ph="/// The Start Screen to see help information. ... " />
+            <marker date="1612850012000" expanded="true" signature="2804:2933" ph="/// The AR Screen which display the AR view, return to lobby button and room number. ... " />
+            <marker date="1612850012000" expanded="true" signature="2979:3109" ph="/// The Status Screen to display the connection status and cloud anchor instructions. ... " />
+            <marker date="1612850012000" expanded="true" signature="3159:3274" ph="/// Display the tracking helper text when the session in not tracking. ... " />
+            <marker date="1612850012000" expanded="true" signature="3324:3442" ph="/// Helper message for &lt;see cref=&quot;NotTrackingReason.Initializing&quot;&gt;.&lt;/see&gt; ... " />
+            <marker date="1612850012000" expanded="true" signature="3538:3656" ph="/// Helper message for &lt;see cref=&quot;NotTrackingReason.Relocalizing&quot;&gt;.&lt;/see&gt; ... " />
+            <marker date="1612850012000" expanded="true" signature="3765:3888" ph="/// Helper message for &lt;see cref=&quot;NotTrackingReason.InsufficientLight&quot;&gt;.&lt;/see&gt; ... " />
+            <marker date="1612850012000" expanded="true" signature="3999:4125" ph="/// Helper message for &lt;see cref=&quot;NotTrackingReason.InsufficientFeatures&quot;&gt;.&lt;/see&gt; ... " />
+            <marker date="1612850012000" expanded="true" signature="4282:4403" ph="/// Helper message for &lt;see cref=&quot;NotTrackingReason.ExcessiveMotion&quot;&gt;.&lt;/see&gt; ... " />
+            <marker date="1612850012000" expanded="true" signature="4499:4616" ph="/// Helper message for &lt;see cref=&quot;NotTrackingReason.Unsupported&quot;&gt;.&lt;/see&gt; ... " />
+            <marker date="1612850012000" expanded="true" signature="4719:4884" ph="/// The key name used in PlayerPrefs which indicates whether ... " />
+            <marker date="1612850012000" expanded="true" signature="4976:5093" ph="/// The time between room starts up and ARCore session starts resolving. ... " />
+            <marker date="1612850012000" expanded="true" signature="5161:5361" ph="/// Record the time since the room started. If it passed the resolving prepare time, ... " />
+            <marker date="1612850012000" expanded="true" signature="5417:5518" ph="/// Indicates whether passes the resolving prepare time. ... " />
+            <marker date="1612850012000" expanded="true" signature="5587:5690" ph="/// Indicates whether the Anchor was already instantiated. ... " />
+            <marker date="1612850012000" expanded="true" signature="5757:5858" ph="/// Indicates whether the Cloud Anchor finished hosting. ... " />
+            <marker date="1612850012000" expanded="true" signature="5921:6079" ph="/// True if the app is in the process of quitting due to an ARCore connection error, ... " />
+            <marker date="1612850012000" expanded="true" signature="6131:6224" ph="/// The world origin transform for this session. ... " />
+            <marker date="1612850012000" expanded="true" signature="6281:6360" ph="/// The current cloud anchor mode. ... " />
+            <marker date="1612850012000" expanded="true" signature="6440:6518" ph="/// The current active UI screen. ... " />
+            <marker date="1612850012000" expanded="true" signature="6606:6675" ph="/// The Network Manager. ... " />
+            <marker date="1612850012000" expanded="true" signature="6801:6901" ph="/// Enumerates modes the example application can be in. ... " />
+            <marker date="1612850012000" expanded="true" signature="6937:7459" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="6960:7094" ph="/// Enume mode that indicate the example application is ready to host or resolve. ... " />
+            <marker date="1612850012000" expanded="true" signature="7127:7258" ph="/// Enume mode that indicate the example application is hosting cloud anchors. ... " />
+            <marker date="1612850012000" expanded="true" signature="7293:7426" ph="/// Enume mode that indicate the example application is resolving cloud anchors. ... " />
+            <marker date="1612850012000" expanded="true" signature="7469:7585" ph="/// Enumerates the active UI screens the example application can be in. ... " />
+            <marker date="1612850012000" expanded="true" signature="7618:8123" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="7641:7766" ph="/// Enume mode that indicate the example application is on lobby screen. ... " />
+            <marker date="1612850012000" expanded="true" signature="7805:7930" ph="/// Enume mode that indicate the example application is on start screen. ... " />
+            <marker date="1612850012000" expanded="true" signature="7969:8091" ph="/// Enume mode that indicate the example application is on AR screen. ... " />
+            <marker date="1612850012000" expanded="true" signature="8133:8306" ph="/// Gets a value indicating whether the Origin of the new World Coordinate System, ... " />
+            <marker date="1612850012000" expanded="true" signature="8341:8403" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="8413:8575" ph="/// Gets or sets the world origin which will be used as the transform parent for network ... " />
+            <marker date="1612850012000" expanded="true" signature="8612:9117" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="8638:8703" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="8720:9107" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="9127:9223" ph="/// Callback handling Start Now button click event. ... " />
+            <marker date="1612850012000" expanded="true" signature="9269:9344" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="9354:9451" ph="/// Callback handling Learn More Button click event. ... " />
+            <marker date="1612850012000" expanded="true" signature="9498:9626" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="9636:9710" ph="/// The Unity Start() method. ... " />
+            <marker date="1612850012000" expanded="true" signature="9738:10289" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="10060:10189" ph="/* A Name is provided to the Game Object so it can be found by other Scripts ... */" />
+            <marker date="1612850012000" expanded="true" signature="10299:10374" ph="/// The Unity Update() method. ... " />
+            <marker date="1612850012000" expanded="true" signature="10403:13351" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="10519:10571" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="10782:10834" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="10848:10976" ph="/* Give AR session some time to prepare for resolving and update the UI message ... */" />
+            <marker date="1612850012000" expanded="true" signature="11068:11429" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="11195:11415" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="11567:11643" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="11657:11763" ph="/* If the origin anchor has not been placed yet, then update in resolving mode is ... */" />
+            <marker date="1612850012000" expanded="true" signature="11841:11893" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="12099:12151" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="12293:12345" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="12620:13341" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="12651:12827" ph="/* The first touch on the Hosting mode will instantiate the origin anchor. Any ... */" />
+            <marker date="1612850012000" expanded="true" signature="12864:12976" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="13061:13327" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="13361:13657" ph="/// Indicates whether the resolving prepare time has passed so the AnchorController ... " />
+            <marker date="1612850012000" expanded="true" signature="13708:13845" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="13855:14039" ph="/// Callback called when the lobby screen's visibility is changed. ... " />
+            <marker date="1612850012000" expanded="true" signature="14098:14495" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="14133:14223" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="14291:14378" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="14395:14485" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="14505:14607" ph="/// Callback called when the resolving timeout is passed. ... " />
+            <marker date="1612850012000" expanded="true" signature="14654:15147" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="14719:14916" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="15157:15331" ph="/// Handles user intent to enter a mode where they can place an anchor to host or to exit ... " />
+            <marker date="1612850012000" expanded="true" signature="15377:15695" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="15444:15632" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="15705:15885" ph="/// Handles a user intent to enter a mode where they can input an anchor to be resolved or ... " />
+            <marker date="1612850012000" expanded="true" signature="15933:16257" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="16002:16192" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="16267:16501" ph="/// Callback indicating that the Cloud Anchor was instantiated and the host request was ... " />
+            <marker date="1612850012000" expanded="true" signature="16555:16781" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="16609:16661" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="16791:17094" ph="/// Callback indicating that the Cloud Anchor was hosted. ... " />
+            <marker date="1612850012000" expanded="true" signature="17160:17293" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="17303:17610" ph="/// Callback indicating that the Cloud Anchor was resolved. ... " />
+            <marker date="1612850012000" expanded="true" signature="17678:17767" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="17777:17901" ph="/// Callback that happens when the client successfully connected to the server. ... " />
+            <marker date="1612850012000" expanded="true" signature="17944:18609" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="18011:18161" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="18225:18376" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="18393:18599" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="18619:18735" ph="/// Callback that happens when the client disconnected from the server. ... " />
+            <marker date="1612850012000" expanded="true" signature="18783:18943" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="18994:19518" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="19037:19094" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="19528:19766" ph="/// Instantiates the anchor object at the pose of the _worldOrigin. ... " />
+            <marker date="1612850012000" expanded="true" signature="19822:20052" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="20062:20258" ph="/// Instantiates a star object that will be synchronized over the network to other clients. ... " />
+            <marker date="1612850012000" expanded="true" signature="20309:20560" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="20570:20750" ph="/// Indicates whether a star can be placed. ... " />
+            <marker date="1612850012000" expanded="true" signature="20787:21111" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="20856:20923" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="20981:21074" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="21121:21197" ph="/// Resets the internal status. ... " />
+            <marker date="1612850012000" expanded="true" signature="21232:21409" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="21419:21574" ph="/// Handles active screen switch events. ... " />
+            <marker date="1612850012000" expanded="true" signature="21641:22611" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="22233:22327" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="22391:22601" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="22422:22547" ph="/* Set platform active when switching to AR Screen so the camera permission only ... */" />
+            <marker date="1612850012000" expanded="true" signature="22621:22713" ph="/// Check and update the application lifecycle. ... " />
+            <marker date="1612850012000" expanded="true" signature="22763:23471" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="22882:22946" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="23070:23157" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="23236:23288" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="23352:23461" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="23481:23606" ph="/// Check session's NotTrackingReason and display corresponding helper messages. ... " />
+            <marker date="1612850012000" expanded="true" signature="23658:25259" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="23754:23846" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="23863:25249" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="23993:25235" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="25269:25461" ph="/// Quits the application after 5 seconds for the toast to appear. ... " />
+            <marker date="1612850012000" expanded="true" signature="25512:25740" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="25551:25603" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="25750:25940" ph="/// Returns to lobby after 3 seconds for the reason message to appear. ... " />
+            <marker date="1612850012000" expanded="true" signature="26000:26280" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="26114:26166" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="26290:26369" ph="/// Actually quit the application. ... " />
+            <marker date="1612850012000" expanded="true" signature="26399:26451" ph="{...}" />
+            <marker date="1612850012000" expanded="true" signature="26461:26541" ph="/// Actually return to lobby scene. ... " />
+            <marker date="1612850012000" expanded="true" signature="26580:26747" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ConstantList.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-15">
+          <caret line="8" column="60" selection-start-line="8" selection-start-column="60" selection-end-line="8" selection-end-column="60" />
+          <folding>
+            <marker date="1621884907833" expanded="true" signature="6:78" ph="..." />
+            <marker date="1621884907833" expanded="true" signature="105:281" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Library/PackageCache/com.google.ar.core.arfoundation.extensions@62e1b8d91679-1621847449920/Runtime/Scripts/ARCoreExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1621847449920" expanded="true" signature="0:815" ph="/* ----------------------------------------------------------------------- ... */" />
+            <marker date="1621847449920" expanded="true" signature="853:14650" ph="{...}" />
+            <marker date="1621847449920" expanded="false" signature="866:1187" ph="..." />
+            <marker date="1621847449920" expanded="true" signature="1194:1393" ph="/// ARCore Extensions, this script allows an app to specify and provide access to ... " />
+            <marker date="1621847449920" expanded="true" signature="1443:14648" ph="{...}" />
+            <marker date="1621847449920" expanded="true" signature="1458:1556" ph="/// AR Foundation &lt;c&gt;ARSession&lt;/c&gt; used by the scene. ... " />
+            <marker date="1621847449920" expanded="true" signature="1600:1704" ph="/// AR Foundation &lt;c&gt;ARSessionOrigin&lt;/c&gt; used by the scene. ... " />
+            <marker date="1621847449920" expanded="true" signature="1760:1874" ph="/// AR Foundation &lt;c&gt;ARCameraManager&lt;/c&gt; used in the ARSessionOrigin. ... " />
+            <marker date="1621847449920" expanded="true" signature="1930:2076" ph="/// Supplementary configuration to define features and options for the ... " />
+            <marker date="1621847449920" expanded="true" signature="2148:2339" ph="/// The &lt;c&gt;&lt;see cref=&quot;ARCoreExtensionsCameraConfigFilter&quot;/&gt;&lt;/c&gt; to define the set of ... " />
+            <marker date="1621847449920" expanded="true" signature="2502:2858" ph="/// The callback event that allows a camera configuration to be selected from ... " />
+            <marker date="1621847449920" expanded="true" signature="2975:4124" ph="/// Selects a camera configuration for the ARCore session to use. ... " />
+            <marker date="1621847449920" expanded="true" signature="4803:5446" ph="{...}" />
+            <marker date="1621847449920" expanded="true" signature="4829:5436" ph="{...}" />
+            <marker date="1621847449920" expanded="true" signature="4911:5232" ph="{...}" />
+            <marker date="1621847449920" expanded="true" signature="5456:5526" ph="/// Unity's Awake method. ... " />
+            <marker date="1621847449920" expanded="true" signature="5554:5818" ph="{...}" />
+            <marker date="1621847449920" expanded="true" signature="5591:5777" ph="{...}" />
+            <marker date="1621847449920" expanded="true" signature="5828:5898" ph="/// Unity's Start method. ... " />
+            <marker date="1621847449920" expanded="true" signature="5926:6140" ph="{...}" />
+            <marker date="1621847449920" expanded="true" signature="6150:6223" ph="/// Unity's OnEnable method. ... " />
+            <marker date="1621847449920" expanded="true" signature="6254:7717" ph="{...}" />
+            <marker date="1621847449920" expanded="true" signature="6482:6612" ph="{...}" />
+            <marker date="1621847449920" expanded="true" signature="6729:6984" ph="{...}" />
+            <marker date="1621847449920" expanded="true" signature="7001:7116" ph="{...}" />
+            <marker date="1621847449920" expanded="true" signature="7250:7504" ph="{...}" />
+            <marker date="1621847449920" expanded="true" signature="7521:7650" ph="{...}" />
+            <marker date="1621847449920" expanded="true" signature="7727:7801" ph="/// Unity's OnDisable method. ... " />
+            <marker date="1621847449920" expanded="true" signature="7833:8421" ph="{...}" />
+            <marker date="1621847449920" expanded="true" signature="8061:8176" ph="{...}" />
+            <marker date="1621847449920" expanded="true" signature="8225:8354" ph="{...}" />
+            <marker date="1621847449920" expanded="true" signature="8431:8505" ph="/// Unity's OnDestroy method. ... " />
+            <marker date="1621847449920" expanded="true" signature="8537:8767" ph="{...}" />
+            <marker date="1621847449920" expanded="true" signature="8695:8757" ph="{...}" />
+            <marker date="1621847449920" expanded="true" signature="8777:8848" ph="/// Unity's Update method. ... " />
+            <marker date="1621847449920" expanded="true" signature="8877:10833" ph="{...}" />
+            <marker date="1621847449920" expanded="true" signature="8957:9022" ph="{...}" />
+            <marker date="1621847449920" expanded="true" signature="9079:9131" ph="{...}" />
+            <marker date="1621847449920" expanded="true" signature="9264:9695" ph="{...}" />
+            <marker date="1621847449920" expanded="true" signature="9479:9643" ph="/* Extensions will attempt to select the camera config based on the filter ... */" />
+            <marker date="1621847449920" expanded="true" signature="9838:10816" ph="{...}" />
+            <marker date="1621847449920" expanded="true" signature="10143:10581" ph="{...}" />
+            <marker date="1621847449920" expanded="true" signature="10309:10563" ph="{...}" />
+            <marker date="1621847449920" expanded="true" signature="10419:10541" ph="{...}" />
+            <marker date="1621847449920" expanded="true" signature="10638:10743" ph="{...}" />
+            <marker date="1621847449920" expanded="true" signature="10861:10927" ph="/// Unity OnValidate. ... " />
+            <marker date="1621847449920" expanded="true" signature="10960:10980" ph="{...}" />
+            <marker date="1621847449920" expanded="true" signature="11022:11539" ph="{...}" />
+            <marker date="1621847449920" expanded="true" signature="11274:11326" ph="{...}" />
+            <marker date="1621847449920" expanded="true" signature="11603:11913" ph="{...}" />
+            <marker date="1621847449920" expanded="true" signature="12011:12425" ph="{...}" />
+            <marker date="1621847449920" expanded="true" signature="12060:12112" ph="{...}" />
+            <marker date="1621847449920" expanded="true" signature="12240:12415" ph="{...}" />
+            <marker date="1621847449920" expanded="true" signature="12544:13449" ph="{...}" />
+            <marker date="1621847449920" expanded="true" signature="12598:12650" ph="{...}" />
+            <marker date="1621847449920" expanded="true" signature="12774:13439" ph="{...}" />
+            <marker date="1621847449920" expanded="true" signature="12958:13131" ph="/* Update the filter cache to avoid overwriting user's selection in case the ... */" />
+            <marker date="1621847449920" expanded="true" signature="13194:13425" ph="{...}" />
+            <marker date="1621847449920" expanded="true" signature="13492:14618" ph="{...}" />
+            <marker date="1621847449920" expanded="true" signature="13541:13593" ph="{...}" />
+            <marker date="1621847449920" expanded="true" signature="13696:14608" ph="{...}" />
+            <marker date="1621847449920" expanded="true" signature="13745:13979" ph="{...}" />
+            <marker date="1621847449920" expanded="true" signature="14076:14202" ph="{...}" />
+            <marker date="1621847449920" expanded="true" signature="14280:14511" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/RecordARSession.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="49" column="91" selection-start-line="49" selection-start-column="91" selection-end-line="49" selection-end-column="91" />
+          <folding>
+            <marker date="1621982041921" expanded="true" signature="6:249" ph="..." />
+            <marker date="1621982041921" expanded="true" signature="295:2491" ph="{...}" />
+            <marker date="1621982041921" expanded="true" signature="738:917" ph="{...}" />
+            <marker date="1621982041921" expanded="true" signature="975:996" ph="{...}" />
+            <marker date="1621982041921" expanded="true" signature="1063:1987" ph="{...}" />
+            <marker date="1621982041921" expanded="true" signature="1368:1775" ph="{...}" />
+            <marker date="1621982041921" expanded="true" signature="1788:1979" ph="{...}" />
+            <marker date="1621982041921" expanded="true" signature="2017:2183" ph="{...}" />
+            <marker date="1621982041921" expanded="true" signature="2105:2177" ph="/* PlaybackPanel.SetActive(true); ... */" />
+            <marker date="1621982041921" expanded="true" signature="2232:2359" ph="{...}" />
+            <marker date="1621982041921" expanded="true" signature="2394:2489" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Project/ARFoundationTest/Assets/Scripts/PlaceObject.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#148#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../Project/ARFoundationTest/Assets/ARFoundationSample/Sample/Assets/Scripts/PlaceOnPlane.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1095">
+          <caret line="76" column="42" selection-start-line="17" selection-start-column="8" selection-end-line="76" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#122#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Library/PackageCache/com.google.ar.core.arfoundation.extensions@62e1b8d91679-1621847449920/Runtime/Scripts/ARPlaybackManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1621847449920" expanded="true" signature="0:816" ph="/* ----------------------------------------------------------------------- ... */" />
+            <marker date="1621847449920" expanded="true" signature="854:6998" ph="{...}" />
+            <marker date="1621847449920" expanded="false" signature="867:1060" ph="..." />
+            <marker date="1621847449920" expanded="true" signature="1066:1157" ph="/// Provides access to session playback functionality. ... " />
+            <marker date="1621847449920" expanded="true" signature="1208:6996" ph="{...}" />
+            <marker date="1621847449920" expanded="true" signature="1223:1384" ph="/// Gets the current state of the playback. ... " />
+            <marker date="1621847449920" expanded="true" signature="1429:1622" ph="{...}" />
+            <marker date="1621847449920" expanded="true" signature="1455:1612" ph="{...}" />
+            <marker date="1621847449920" expanded="true" signature="1632:3596" ph="/// Sets an MP4 dataset file to playback instead of using the live camera feed and IMU ... " />
+            <marker date="1621847449920" expanded="true" signature="3669:4152" ph="{...}" />
+            <marker date="1621847449920" expanded="true" signature="3919:4002" ph="{...}" />
+            <marker date="1621847449920" expanded="true" signature="4162:5160" ph="/// Gets the set of data recorded to the given track available during playback on this ... " />
+            <marker date="1621847449920" expanded="true" signature="5225:6990" ph="{...}" />
+            <marker date="1621847449920" expanded="true" signature="5475:5703" ph="{...}" />
+            <marker date="1621847449920" expanded="true" signature="5854:6164" ph="{...}" />
+            <marker date="1621847449920" expanded="true" signature="6265:6503" ph="{...}" />
+            <marker date="1621847449920" expanded="true" signature="6578:6812" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlaybackARSession.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1186">
+          <caret line="132" column="14" selection-start-line="132" selection-start-column="14" selection-end-line="132" selection-end-column="14" />
+          <folding>
+            <marker date="1622156184642" expanded="true" signature="6:269" ph="..." />
+            <marker date="1622156184642" expanded="true" signature="317:7378" ph="{...}" />
+            <marker date="1622156184642" expanded="true" signature="988:1035" ph="{...}" />
+            <marker date="1622156184642" expanded="true" signature="1098:2589" ph="{...}" />
+            <marker date="1622156184642" expanded="true" signature="1297:1770" ph="{...}" />
+            <marker date="1622156184642" expanded="true" signature="1320:1416" ph="/* Raycast hits are sorted by distance, so the first one ... */" />
+            <marker date="1622156184642" expanded="true" signature="1524:1646" ph="{...}" />
+            <marker date="1622156184642" expanded="true" signature="1663:1760" ph="{...}" />
+            <marker date="1622156184642" expanded="true" signature="1781:2407" ph="/* if (restartCheck) ... */" />
+            <marker date="1622156184642" expanded="false" signature="2428:2582" ph="/* if (setPlaybackDataset) ... */" />
+            <marker date="1622156184642" expanded="true" signature="2621:2933" ph="{...}" />
+            <marker date="1622156184642" expanded="false" signature="2635:2706" ph="/* setPlaybackDataset = true; ... */" />
+            <marker date="1622156184642" expanded="true" signature="2961:3587" ph="{...}" />
+            <marker date="1622156184642" expanded="true" signature="3000:3363" ph="{...}" />
+            <marker date="1622156184642" expanded="true" signature="3376:3581" ph="{...}" />
+            <marker date="1622156184642" expanded="true" signature="3620:4476" ph="{...}" />
+            <marker date="1622156184642" expanded="true" signature="3796:4470" ph="/* if (result == PlaybackResult.ErrorPlaybackFailed || result == PlaybackResult.SessionNotReady) ... */" />
+            <marker date="1622156184642" expanded="true" signature="4511:5990" ph="{...}" />
+            <marker date="1622156184642" expanded="true" signature="4624:5089" ph="{...}" />
+            <marker date="1622156184642" expanded="true" signature="4920:5043" ph="/* In the frame after that, re-enable the ARSession to resume the session from ... */" />
+            <marker date="1622156184642" expanded="true" signature="5125:5280" ph="/* session.enabled = false; ... */" />
+            <marker date="1622156184642" expanded="true" signature="5290:5982" ph="/* if (result == PlaybackResult.ErrorPlaybackFailed || result == PlaybackResult.SessionNotReady) ... */" />
+            <marker date="1622156184642" expanded="true" signature="6051:6254" ph="{...}" />
+            <marker date="1622156184642" expanded="true" signature="6091:6192" ph="{...}" />
+            <marker date="1622156184642" expanded="true" signature="6300:6427" ph="{...}" />
+            <marker date="1622156184642" expanded="true" signature="6462:6557" ph="{...}" />
+            <marker date="1622156184642" expanded="true" signature="6581:6656" ph="{...}" />
+            <marker date="1622156184642" expanded="true" signature="6679:6726" ph="{...}" />
+            <marker date="1622156184642" expanded="true" signature="6734:7375" ph="PlaceOnPlane" />
+            <marker date="1622156184642" expanded="true" signature="6765:6861" ph="/* [SerializeField] ... */" />
+            <marker date="1622156184642" expanded="true" signature="6866:6976" ph="/* The prefab to instantiate on touch. ... */" />
+            <marker date="1622156184642" expanded="true" signature="6981:7106" ph="/* public GameObject placedPrefab ... */" />
+            <marker date="1622156184642" expanded="true" signature="7112:7299" ph="/* The object instantiated as a result of a successful raycast intersection with a plane. ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
